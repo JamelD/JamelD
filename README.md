@@ -2,7 +2,7 @@
 <p align='center'>
     <a href="https://jameld.com"><img height="30" src="https://github.com/JamelD/Jameld/blob/main/icon/favicon.png?raw=true"></a>
     <a href="https://www.linkedin.com/in/jameldouglas/"><img height="30" src="https://github.com/JamelD/Jameld/blob/main/icon/linkedin.png?raw=true"></a>
-    <a href="https://www.twitter.com/"><img height="30" src="https://github.com/JamelD/Jameld/blob/main/icon/linkedin.png?raw=true"></a>
+    <!-- <a href="https://www.twitter.com/"><img height="30" src="https://github.com/JamelD/Jameld/blob/main/icon/twitter.png?raw=true"></a> -->
 </p>
 
 ## :wave: Hello there! I'm Jamel
