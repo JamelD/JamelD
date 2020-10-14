@@ -2,6 +2,7 @@
 <p align='center'>
     <a href="https://jameld.com"><img height="30" src="https://github.com/JamelD/Jameld/blob/main/icon/favicon.png?raw=true"></a>
     <a href="https://www.linkedin.com/in/jameldouglas/"><img height="30" src="https://github.com/JamelD/Jameld/blob/main/icon/linkedin.png?raw=true"></a>
+    <a href="https://www.twitter.com/"><img height="30" src="https://github.com/JamelD/Jameld/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 ## :wave: Hello there! I'm Jamel
@@ -39,6 +40,6 @@ I am currently a Junior studying Information Technology at Florida State Univers
 <!-- [![Twitter](https://img.shields.io/badge/-LinkedIn-lightgrey)]() -->
 <!-- [![Name](https://img.shields.io/badge/-Name-lightgrey)]() -->
 
-## :bar_chart: Stats
+## :bar_chart: Github Stats
 [![JamelD's github stats](https://github-readme-stats.vercel.app/api?username=JamelD)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamelD)](https://github.com/anuraghazra/github-readme-stats)
