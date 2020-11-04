@@ -36,10 +36,10 @@ I am currently a Junior studying Information Technology at Florida State Univers
 <!-- - Python -->
 
 ## :mailbox: Where to find me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-lightgrey)](https://www.linkedin.com/in/jameldouglas/)
 [![Website](https://img.shields.io/badge/-Website-lightgrey)](https://jameld.com)
 [![Blog](https://img.shields.io/badge/-Blog-lightgrey)](https://blog.jameld.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-lightgrey)](https://www.linkedin.com/in/jameldouglas/)
 <!-- [![Twitter](https://img.shields.io/badge/-LinkedIn-lightgrey)]() -->
 <!-- [![Name](https://img.shields.io/badge/-Name-lightgrey)]() -->
 
