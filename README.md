@@ -20,15 +20,17 @@ I am currently a Junior studying Information Technology at Florida State Univers
 ![Code - CSS](https://img.shields.io/badge/Code-CSS-green)
 ![Code - SQL](https://img.shields.io/badge/Code-SQL-brightgreen)
 ![Code - C++](https://img.shields.io/badge/Code-C++-brightgreen)
-<!-- ![Code - PHP](https://img.shields.io/badge/Code-PHP-brightgreen) -->
 <!-- ![Code - JavaScript](https://img.shields.io/badge/Code-JavaScript-brightgreen) -->
+<!-- ![Code - PHP](https://img.shields.io/badge/Code-PHP-brightgreen) -->
 <!-- ![Code - Python](https://img.shields.io/badge/Code-Python-brightgreen) -->
 
-<!-- ## :hammer: I’m currently working on
-- N/A -->
+## :book: Classes I'm Currently taking
+- Intermediate Database Analysis (LIS 3784)
+- Intoduction to Networks and Telecom (LIS 4482)
+- Web Applications Development(LIS 2360)
+- Technical Comminication For Infromation Professions(LIS 3021)
 
 ## :pencil2: I’m currently learning
-- Intermediate Database Management (LIS3784)
 - Javascript
 <!-- - Python -->
 
