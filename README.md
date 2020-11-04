@@ -14,6 +14,7 @@ I am currently a Junior studying Information Technology at Florida State Univers
 
 ![Tools - MySQL](https://img.shields.io/badge/Tools-MySQL-blue)
 ![Tools - MariaDB](https://img.shields.io/badge/Tools-MariaDB-blue)
+![Tools - Microsoft SQL Server](https://img.shields.io/badge/Tools-Microsoft_SQL-blue)
 ![Tools - Docker](https://img.shields.io/badge/Tools-Docker-blue)
 
 ![Code - HTML](https://img.shields.io/badge/Code-HTML-green)
