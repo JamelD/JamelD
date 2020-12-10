@@ -1,7 +1,7 @@
 <!-- Quick Links -->
 <p align='center'>
-    <div title="Website"><a href="https://jameld.com"><img height="30" src="https://github.com/JamelD/Jameld/blob/main/icon/favicon.png?raw=true"></a></div>
-    <div title="LinkedIn"><a href="https://www.linkedin.com/in/jameldouglas/"><img height="30" src="https://github.com/JamelD/Jameld/blob/main/icon/linkedin.png?raw=true"></a></div>
+    <div align='center' title="Website"><a href="https://jameld.com"><img height="30" src="https://github.com/JamelD/Jameld/blob/main/icon/favicon.png?raw=true"></a></div>
+    <div align='center' title="LinkedIn"><a href="https://www.linkedin.com/in/jameldouglas/"><img height="30" src="https://github.com/JamelD/Jameld/blob/main/icon/linkedin.png?raw=true"></a></div>
     <!-- <a href="https://www.twitter.com/"><img height="30" src="https://github.com/JamelD/Jameld/blob/main/icon/twitter.png?raw=true"></a> -->
 </p>
 
