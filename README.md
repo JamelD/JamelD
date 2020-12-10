@@ -32,11 +32,12 @@ I am currently a Junior studying Information Technology at Florida State Univers
 - Technical Comminication For Infromation Professions(LIS 3021)
 
 ## :pencil2: I’m currently learning
+- Python
 - Javascript
-<!-- - Python -->
+
 
 ## :mailbox: Where to find me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-lightgrey)](https://www.linkedin.com/in/jameldouglas/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-lightgrey)](https://www.linkedin.com/in/jameld/)
 [![Website](https://img.shields.io/badge/-Website-lightgrey)](https://jameld.com)
 [![Blog](https://img.shields.io/badge/-Blog-lightgrey)](https://blog.jameld.com)
 
