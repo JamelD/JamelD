@@ -1,5 +1,5 @@
 ## :wave: Hello there! I'm Jamel
-I am studying Information Technology at Florida State University with a focus on Network Administration, Database Administration, and Web Design. I hope to build a career in the IT industry with a focus on either Network or Systems Administration.
+I am a Senior studying Information Technology at Florida State University with a focus on Network Administration, Database Administration, and Web Design. I hope to build a career in the IT industry with a focus on either Network or Systems Administration.
 
 ## :mailbox: Where to find me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-lightgrey)](https://www.linkedin.com/in/jameld/)
@@ -36,8 +36,10 @@ I am studying Information Technology at Florida State University with a focus on
 - ![★ - PHP](https://img.shields.io/badge/★-PHP-blue)
 
 ## :book: Classes I'm Currently taking
-- Information Technology Project (LIS 4910)
-- Infromation Technology Leadership (LIS 4480)
+- Information Security (LIS 4774)
+- Research and Data Analysis in Information Technology (LIS 3201)
+- Information Architecture (LIS 3793)
+- User Experience Design (LIS 4351)
 
 ## :pencil2: I’m currently learning
 - CompTIA Network+
