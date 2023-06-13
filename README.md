@@ -10,6 +10,10 @@ I am an IT Support Specialist and graduate of Florida State University with a de
 
 ## :wrench: Tools & Technologies
 
+### Certifications
+
+![CompTIA Network+](https://jameld.com/images/networkplus.webp)
+
 ### Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-green)
@@ -50,7 +54,11 @@ I am an IT Support Specialist and graduate of Florida State University with a de
 
 ## :pencil2: I’m currently learning
 
-- CompTIA Network+
+- Cisco CCNA
+- Cisco CCNP Enterprise
+- Cisco CCIE Enterprise Infrastrcture
+- CompTIA Network Infrastructure Professional
+  - CompTIA Server+
 <!-- - Windows Server 2019 -->
 
 ## :bar_chart: Github Stats
